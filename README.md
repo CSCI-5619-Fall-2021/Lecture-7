@@ -8,6 +8,7 @@ Detailed explanation of this code can be found in the lecture video (will be add
 2. Rapid development using the XR Device Simulator
 3. Grabbing objects with the controllers
 4. Physics and colliders
+5. Demonstration of the [XR Interaction Toolkit Examples](https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples)
 
 ## Participation Exercise
 
