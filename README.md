@@ -1,13 +1,14 @@
 # Lecture 7: Interaction and Physics
 
-Detailed explanation of this code can be found in the lecture video (will be added after class).
+Detailed explanation of this code can be found in the [lecture video](https://mediaspace.umn.edu/media/t/1_zczgnj5z).
 
 ## Topics
 
 1. How to use the action-based XR rig
 2. Rapid development using the XR Device Simulator
+   *Note: this [video](https://www.youtube.com/watch?v=d4bTpkvBwrs) is also helpful in explaining the simulator controls.*
 3. Grabbing objects with the controllers
-4. Physics and colliders
+4. Physics, rigid bodies, and colliders
 5. Demonstration of the [XR Interaction Toolkit Examples](https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples)
 
 ## Participation Exercise
