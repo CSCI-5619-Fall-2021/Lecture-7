@@ -1,4 +1,4 @@
-# Lecture 7: Interaction and Physics
+# Lecture 7: Interaction and Physics (Part 1)
 
 Detailed explanation of this code can be found in the [lecture video](https://mediaspace.umn.edu/media/t/1_zczgnj5z).
 
